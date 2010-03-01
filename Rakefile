@@ -9,9 +9,9 @@ require 'spec/rake/spectask'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "efax"
+    gem.name = "hashrocket-efax"
     gem.summary = 'Ruby library for accessing the eFax Developer service'
-    gem.authors = ["Szymon Nowak", "Pawel Kozlowski", "Dr Nic Williams"]
+    gem.authors = ["Szymon Nowak", "Pawel Kozlowski", "Dr Nic Williams", "Desi McAdam", "Leo Soto"]
     gem.email = "szimek@gmail.com"
     gem.homepage = "http://github.com/szimek/efax"
     gem.rubyforge_project = "efax"
